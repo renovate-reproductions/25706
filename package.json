@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cognito-express": "3.0.2"
+    "cognito-express": "3.0.3"
   },
   "packageManager": "yarn@4.0.2"
 }
